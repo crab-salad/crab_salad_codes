@@ -16,7 +16,7 @@ https://github.com/crab-salad/crab_salad_codes/raw/master/css/party_tweetdeck.us
 
 
 
-* ## Party_TweetDeck
+* ## Fake_TweetDeck
 TweetDeck上のツイートをすべて指定した文字に変更します。悪用厳禁。  
 ![2020-08-25_16-41_1](https://user-images.githubusercontent.com/39154895/91147346-17dca900-e6f3-11ea-95ff-f1f121b8bbfb.png)　→→→　
 ![2020-08-25_16-41](https://user-images.githubusercontent.com/39154895/91147348-18753f80-e6f3-11ea-86c2-65c481d127f4.png)
