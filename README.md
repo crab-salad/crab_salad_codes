@@ -1,0 +1,2 @@
+# hide_counts_tweetdeck
+承認欲求の強い人に送る、さわやかなTweetdeckを目指すCSSです
