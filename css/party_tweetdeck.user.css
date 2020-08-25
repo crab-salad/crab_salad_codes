@@ -79,4 +79,4 @@ div[data-type="retweeters"],div[data-type="favoriters"]{
 @keyframes rotate-anime-icon{
  to{ transform: rotate(-360deg); }
 }
-?
+}
