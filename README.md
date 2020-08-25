@@ -2,7 +2,8 @@
 
 * ## hide_counts_on_tweetdeck（さわやかTweetDeck）
 RT数などを消して「さわやかなTweetdeck」を目指すCSSです。Chrome拡張などのStylusを入れてもらえれば作動します。  
-https://github.com/crab-salad/crab_salad_codes/blob/master/css/hide_counts_on_tweetdeck.user.css
+https://github.com/crab-salad/crab_salad_codes/raw/master/css/hide_counts_on_tweetdeck.user.css
+
 
 
 * ## Party_TweetDeck
