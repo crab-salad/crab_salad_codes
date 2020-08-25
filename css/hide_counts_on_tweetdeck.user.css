@@ -57,7 +57,7 @@ visibility:visible;
 
 
 /* show border.If you don't want,delete under.
-ツイート詳細欄の枠線の調整。必要なければここから下は消してOK。 */
+ツイート詳細欄の枠線の調整。必要なければここから下は消してOK。
 div.tweet-stats.flex{
     border:0px;
     margin-top: 1px;
@@ -66,4 +66,5 @@ footer:hover div.tweet-stats.flex{
         border-top:1px solid black;
         margin-top: 0px;
 }
+*/
 }/*Better Tweetdeckを使う場合はこの一行を削除*/
