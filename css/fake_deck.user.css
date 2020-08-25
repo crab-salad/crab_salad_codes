@@ -1,0 +1,33 @@
+@-moz-document domain("twitter.com") {
+:root{
+    --text:"おっぱい"; /* ここに入れたい単語を入れる */
+}
+
+/*　ツイートの文字部分を消す　*/
+div.tweet-body p{ 
+display: none;
+}
+
+/*　ツイートの画像・動画部分を消す　*/
+div.tweet-body .js-media{
+display: none;    
+}
+
+/*　指定した単語の挿入　*/
+.js-card-container:before{
+    content: var(--text);   
+}
+
+/*　カーソルをおいたとき本来のツイートを表示する　*/
+article.stream-item:hover  p{
+display: inline-block;
+}
+article.stream-item:hover  .js-media{
+    display:block;
+}
+/*　カーソルをおいたとき指定した単語を消す　*/
+article.stream-item:hover .js-card-container:before{
+    content: "";    
+}
+
+}
