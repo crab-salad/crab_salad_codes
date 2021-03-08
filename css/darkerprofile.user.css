@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name        Hide Counts on Tweetdeck
+@namespace   StylusThemes
+@version     1.0.0
+@homepageURL https://github.com/crab-salad/crab_salad_codes
+@updateURL   https://raw.githubusercontent.com/crab-salad/crab_salad_codes/master/css/hide_counts_on_tweetdeck.user.css
+@license     MIT
+@author      crab_salad
+==/UserStyle== */
+/*Better Tweetdeckを使う場合はこの上を削除*/
+div.prf-header::before {
+    background-color: rgba(0, 0, 0, 0.6);
+    position:absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: ' ';
+}
