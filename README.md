@@ -10,9 +10,9 @@ https://github.com/crab-salad/crab_salad_codes/raw/master/css/hide_counts_on_twe
 
 
 * ## Daker Profile on Tweetdec
-Tweetdeckでのプロフィール欄が読みにくいのを、背景を暗くすることで読ませるCSSです。  
+Tweetdeckでのプロフィール欄の背景を暗くすることで可読性を上げるCSSです。  
 ![chrome_T9gtUysQIc](https://user-images.githubusercontent.com/39154895/110268463-03b02780-8005-11eb-9242-5c6b381018a7.png)  
-https://github.com/crab-salad/crab_salad_codes/raw/master/css/css/darker_profile.user.css
+https://github.com/crab-salad/crab_salad_codes/raw/master/css/darker_profile.user.css
   
 
 
