@@ -18,4 +18,4 @@ div.prf-header::before {
     left: 0;
     content: ' ';
 }
-}/*Better Tweetdeckを使う場合はこの一行を削除*/
+    }/*Better Tweetdeckを使う場合はこの一行を削除*/
